@@ -1,0 +1,324 @@
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\LoginRegistrasiSystem.frmLogin.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\LoginRegistrasiSystem.frmRegistrasi.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\bin\Debug\SistemOperasiProyek.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\bin\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\bin\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.UserControlProyek.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\bin\Debug\SistemOperasiProyek.exe.config
+D:\PemrogLanjut\UAS\SistemOperasiProyek\bin\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\SistemOperasiProyek\bin\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\SistemOperasiProyek\bin\Debug\CircularProgressBar.xml
+D:\PemrogLanjut\UAS\SistemOperasiProyek\bin\Debug\WinFormAnimation.xml
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\LoginRegistrasiSystem.frmLogin.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\LoginRegistrasiSystem.frmRegistrasi.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.UserControlProyek.resources
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\SistemOperasiProyek\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfile.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyekkkk[1]\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfile.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\abc\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\UAS\14 des\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+D:\Kuliah\Semester 3\pemrograman lanjut\final project\finalll\ui lama\fix\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\simpro3\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\SistemOperasiProyek9Des\ini paling update 16-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+D:\materi\Semester 3\pemroglanjut\ini paling update 17-12\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\17 des\ini paling update 17-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+D:\PemrogLanjut\UAS\20  Des\ini paling update 20-12\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\bin\Debug\SistemOperasiProyek.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKaryawan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormLogin.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormProfil.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTambahKegiatan.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTambahProyek.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Views.FormTugas.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.FormRegistrasi.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.UserControl.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Final Project Proyek\SistemOperasiProyekkkk\SistemOperasiProyekkkk\obj\Debug\SistemOperasiProyek.pdb

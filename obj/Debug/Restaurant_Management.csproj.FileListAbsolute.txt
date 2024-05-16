@@ -1,0 +1,72 @@
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe.config
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.pdb
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.Form1.resources
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.exe
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.pdb
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.dll
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.dll
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.xml
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.xml
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CopyComplete
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormCustomers.resources
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormDashboard.resources
+C:\Users\Home\source\repos\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormRestaurants.resources
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe.config
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.pdb
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.dll
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.dll
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.xml
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.xml
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csprojAssemblyReference.cache
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.Form1.resources
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormCustomers.resources
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormDashboard.resources
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormRestaurants.resources
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.GenerateResource.cache
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CoreCompileInputs.cache
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CopyComplete
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.exe
+C:\Users\Gadget Fix\Downloads\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.dll
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.dll
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\SIMPRO\Restaurant Management System in WinForms\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe.config
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\Restaurant_Management.pdb
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.dll
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.dll
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\CircularProgressBar.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\bin\Debug\WinFormAnimation.xml
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.AssemblyReference.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormTampilanAwal.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormBeranda.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.FormTidakMemilikiWewenang.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.GenerateResource.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.csproj.CopyComplete
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.exe
+C:\Users\X1 Carbon 6th Gen\Documents\AMIKOM 2022\SEMESTER 3\Pemograman Lanjut\CobaFinalPL\Restaurant_Management\Restaurant_Management\obj\Debug\Restaurant_Management.pdb
